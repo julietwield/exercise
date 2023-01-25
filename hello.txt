@@ -1,1 +1,2 @@
+Hello new_branch
 Hello master branch
